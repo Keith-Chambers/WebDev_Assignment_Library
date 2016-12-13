@@ -1,0 +1,136 @@
+@import url("index.css");
+
+#searchBarContainer
+{
+	position: relative;
+	background-color: grey;
+	border: 1px solid black;
+	/* margin: auto; */
+	left: 15%;
+	width: 30%;
+	height: 10%;
+	top: 1%;
+}
+
+#searchBar
+{
+	position: absolute;
+	top: 20%;
+	left: 3%;
+	width: 70%;
+}
+
+#categorySelectBox
+{
+	position: absolute;
+	top: 20%;
+	left: 74%;
+	width: 25%;
+}
+
+#autherOpt
+{
+	position: absolute;
+	bottom: 10%;
+	left: 20%;
+}
+
+#titleOpt
+{
+	position: absolute;
+	bottom: 10%;
+	left: 3%;
+}
+
+#searchButton
+{
+	position: absolute;
+	bottom: 10%;
+	right: 8%;
+	width: 50%;
+}
+
+#searchSpaceContainer
+{
+	position: relative;
+	display: block;
+	/* margin-right: auto; */
+	/* margin-left: auto; */
+	left: 2%;
+	top: 3%;
+	height: 60%;
+	width: 57%;
+	background-color: #C1D7DE;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+#resultTable
+{
+	position: relative;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+th
+{
+	height: 40px;
+}
+
+td
+{
+	text-align: center;
+}
+
+#accountPage
+{
+	position: absolute;
+	height: 76%;
+	width: 30%;
+	right: 2%;
+	top: 12%;
+	background-color: green;
+}
+
+#accountSecHeaderText
+{
+	//position: absolute;
+	text-align: center;
+}
+
+#leftArrow
+{
+	position: absolute;
+	left: 10%;
+	bottom: 10%;
+}
+
+#rightArrow
+{
+	position: absolute;
+	right: 10%;
+	bottom: 10%;
+}
+
+#reservationTable
+{
+	position: absolute;
+	left: 0%;
+	width: 100%;
+	margin: 10px;
+}
+
+#logoutForm
+{
+	position: absolute;
+	bottom: 0px;
+	right: 5%;
+}
+
+
+
+
+
+
+
+

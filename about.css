@@ -1,0 +1,17 @@
+@import url("index.css");
+
+a
+{
+	text-decoration: none;
+}
+
+#main
+{
+	width: 50%;
+	margin: auto;
+}
+
+h3
+{
+	text-align: center;
+}

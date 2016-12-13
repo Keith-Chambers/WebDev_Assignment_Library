@@ -1,0 +1,145 @@
+/* index.css */
+
+body
+{
+	margin: 0px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+#header
+{
+	left: 0px;
+	top: 0px;
+	height: 10%;
+	width: 100%;
+	background-color: #286D85;
+	margin: 0px;
+}
+
+#headerText
+{
+	font-family: "Georgia";
+	position: relative;
+	top: 30%;
+	color: #BFD0D6;
+	text-align: center;
+}
+
+#footer
+{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	height: 10%;
+	width: 100%;
+	background-color: #286D85;
+}
+
+#footer_topBorder
+{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	height: 5px;
+	width: 100%;
+	background-color: black;
+	
+}
+
+#footer_aboutLink
+{
+	position: relative;
+	display: inline-block;
+	top: 30%;
+}
+
+#footer_contactLink
+{
+	position: relative;
+	display: inline-block;
+}
+
+#footer_homeLink
+{
+	position: relative;
+	display: inline-block;
+}
+
+#registerFieldset
+{
+	position: relative;
+	left: 5%;
+	top: 30%;
+	width: 25%;
+	// height: 40%;
+	background-color: #E4EFF2;
+}
+
+.formField
+{
+	position: absolute;
+	right: 10%;
+}
+
+#registerForm
+{
+	position: relative;
+	top: 10%;
+}
+
+#loginFieldset
+{
+	position: absolute;
+	right: 5%;
+	top: 30%;
+	width: 25%;
+	background-color: #E4EFF2;
+}
+
+#loginForm
+{
+	position: relative;
+	bottom: 15%;
+	right: 30%;
+}
+
+#mainTextDiv
+{
+	position: absolute;
+	top: 30%;
+	left: 38%;
+	width: 400px;
+	
+}
+
+#mainText
+{
+	font-size: 2em;
+	font-family: Geneva;
+}
+
+#footer_aboutLink
+{
+	position: absolute;
+	left: 10%;
+	top: 40%;
+}
+
+#footer_contactLink
+{
+	position: absolute;
+	top: 40%;
+	left: 20%;
+}
+
+#footer_homeLink
+{
+	position: absolute;
+	left: 30%;
+	top: 40%;
+}
+
